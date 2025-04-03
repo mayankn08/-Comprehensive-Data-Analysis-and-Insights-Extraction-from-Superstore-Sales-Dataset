@@ -1,4 +1,4 @@
-# Comprehensive-Data-Analysis-and-Insights-Extraction-from-Superstore-Sales-Dataset
+# Comprehensive Data Analysis and Insights Extraction from Superstore Sales Dataset
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/5a9939e3-f720-4cb9-8976-c26517b6d323/ReportSection?experience=power-bi
 ## Objective 
